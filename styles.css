@@ -53,6 +53,7 @@ border-radius: 15px;
 
 			.ribbon span {
 				text-align:center;
+				width: 100%;
 				background:#fff;
 				display:inline-block;
 				line-height:3em;
