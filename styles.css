@@ -140,15 +140,10 @@ h2
 	-webkit-box-shadow:5px 5px 3px 2px rgba(0,0,0,.6);
 	background:#cc9;
 	border-radius:15px;
-	bottom:0;
 	box-shadow:5px 5px 3px 2px rgba(0,0,0,.6);
 	float:right;
-	height:30px;
-	left:0;
 	margin:10px;
 	padding:5px 10px;
-	position:fixed;
-	width:100%;
 }
 
 #footer p
